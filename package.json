@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/cli": "^2.4.7",
+    "@capacitor/core": "^2.4.7",
+    "@capacitor/ios": "^2.4.7",
+    "cordova-background-geolocation-lt": "^4.1.2",
+    "cordova-plugin-background-fetch": "^7.0.3"
+  }
+}
